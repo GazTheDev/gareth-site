@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'B2B Webmasters Braintree ',
+    title: 'Gatsby Crash Course',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
