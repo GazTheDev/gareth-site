@@ -1,0 +1,2 @@
+webpackJsonp([49683490770531],{335:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{id:"C:/Users/garet/Desktop/Gatsbyjs/Website/site/src/pages/2018-16-04-welcome/index.md absPath of file >>> MarkdownRemark",frontmatter:{path:"/welcome-to",title:"Welcome to our website.",date:"17/04/2018",author:"Gareth"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---blog-dde9f182c728bbff418f.js.map
